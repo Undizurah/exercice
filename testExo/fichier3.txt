@@ -1,1 +1,6 @@
 Fichier inclus dans un répertoire
+
+
+Ajout d'une ligne de texte dans ce fichier.
+Pas évident d'utiliser vim en console sur portable
+
